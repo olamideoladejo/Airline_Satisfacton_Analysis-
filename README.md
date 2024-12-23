@@ -28,10 +28,10 @@ The data was loaded into power query in power bi, checked if the data type was c
 - Type of travel: Business (69.06%), Personal (30.94%)
 
 ###### Satisfaction
--Economy class has higher satisfaction (81.23%) followed by Economy plus (75.36%)while Business class has the lowest (30.56%)
--Age group “7-17” has the lowest satisfaction rate (16.73), followed by “68-77” (18.39%) and “78-85”(28.14%)
--Inflight service has the highest service rating(3,64) followed by Baggage handling(3.63)
--In-flight WiFi has the lowest service rating (2.73) followed by Ease of Booking (2.76) and Gate location(2.98)
+- Economy class has higher satisfaction (81.23%) followed by Economy plus (75.36%)while Business class has the lowest (30.56%)
+- Age group “7-17” has the lowest satisfaction rate (16.73), followed by “68-77” (18.39%) and “78-85”(28.14%)
+- Inflight service has the highest service rating(3,64) followed by Baggage handling(3.63)
+- In-flight WiFi has the lowest service rating (2.73) followed by Ease of Booking (2.76) and Gate location(2.98)
  
 ###### Recommendations
 To improve customer satisfaction Stake holders should:
